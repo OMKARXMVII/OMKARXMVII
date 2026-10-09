@@ -26,6 +26,31 @@
 ## ⚙️ Technologies & Tools
 
 
+<h2 align="center">⚡ TECH STACK & TOOLS</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,html,css,react,nodejs,express,php&perline=12" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,bash,powershell,git,github,vscode,visualstudio,pycharm,obsidian,docker&perline=12" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase,redis,sqlite,aws,azure,gcp,vercel,cloudflare,nginx&perline=12" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,postman,npm,vite,webpack,bootstrap,tailwind,graphql,fastapi,django,flask,pytorch&perline=12" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=githubactions,gitlab,jenkins,terraform,ansible,kubernetes,raspberrypi,arduino,windows,powershell&perline=12" />
+</p>
+
+<p align="center">
+  <i>Currently learning and exploring these technologies.</i>
+</p>
 <h2 align="center">⚙️ TECHNOLOGIES & TOOLS</h2>
 
 <h3 align="center">💻 Programming & Development</h3>
