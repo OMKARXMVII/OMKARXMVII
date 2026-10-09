@@ -1,5 +1,5 @@
 
-<h1 align="center">⚡ OMKAR M | CYBERSECURITY</h1>
+<h1 align="center">⚡ OMKAR M | </h1>
 
 <h3 align="center">
   Aspiring Cybersecurity Professional | Developer | Tech Enthusiast
