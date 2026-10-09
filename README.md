@@ -1,9 +1,3 @@
-## Hi there 👋
-
-<!--
-**OMKARXMVII/OMKARXMVII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 
 <h1 align="center">⚡ OMKAR M | CYBERSECURITY</h1>
 
@@ -23,7 +17,7 @@
 
 ## 🧠 About Me
 
-- 🎓 Student
+- 🎓  Student
 - 🔐 Interested in Cybersecurity and Ethical Hacking
 - 💻 Exploring Python, Linux, and Networking
 - 🛠️ Building projects and improving my technical skills
