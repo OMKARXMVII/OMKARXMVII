@@ -112,9 +112,22 @@
 
 ## 📊 GitHub Stats
 
+
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OMKARXMVII&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMKARXMVII&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=OMKARXMVII&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMKARXMVII&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=OMKARXMVII&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=OMKARXMVII&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ## 🐍 Contribution Graph
